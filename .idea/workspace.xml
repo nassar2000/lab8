@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05cdda53-faa9-45c8-87be-9b1e1c0b9942" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a8VzuKKmV6D22eUDu08FCE99xK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mssql-jdbc_auth-8.2.2.x64.dll" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Db">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Db" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Db" />
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatIsJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.WhatIsJdbc" />
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Db" />
+        <item itemvalue="Application.WhatIsJdbc" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05cdda53-faa9-45c8-87be-9b1e1c0b9942" name="Default Changelist" comment="" />
+      <created>1586117474333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586117474333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586170274875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-156.1920.1040@0.0.1366.728" timestamp="1586170274875" />
+    <state x="-1373" y="-6" key="FileChooserDialogImpl" timestamp="1586190986790">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state x="-1373" y="-6" key="FileChooserDialogImpl/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586190986790" />
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586123922959" />
+    <state width="1877" height="176" key="GridCell.Tab.0.bottom" timestamp="1586190722331">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586190722331" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586123965545" />
+    <state width="1877" height="176" key="GridCell.Tab.0.center" timestamp="1586190722330">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586190722330" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586123965545" />
+    <state width="1877" height="176" key="GridCell.Tab.0.left" timestamp="1586190722330">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586190722330" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586123965544" />
+    <state width="1877" height="176" key="GridCell.Tab.0.right" timestamp="1586190722331">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586190722331" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586123965545" />
+    <state x="-1614" y="22" key="SettingsEditor" timestamp="1586190992180">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state x="-1614" y="22" key="SettingsEditor/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586190992180" />
+    <state x="-1040" y="14" key="SettingsEditor/0.0.1366.728/-1920.-156.1920.1040@0.0.1366.728" timestamp="1586170510684" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586123955470" />
+    <state x="-1297" y="69" width="672" height="678" key="search.everywhere.popup" timestamp="1586189786563">
+      <screen x="-1920" y="-156" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="69" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-156.1920.1040@-1920.-156.1920.1040" timestamp="1586189786563" />
+  </component>
+</project>
