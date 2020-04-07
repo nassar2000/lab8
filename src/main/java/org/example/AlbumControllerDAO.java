@@ -1,6 +1,10 @@
 package org.example;
 
+import java.sql.SQLException;
+import java.util.List;
+
 public interface AlbumControllerDAO {
-    public void create(String name, String country);
-    public void findByName(String name);
+    void create(String name, int artistId, int releaseYear) throws SQLException;
+    List<AlbumControllerDAOimpl> findByArtist(int artistId) throws SQLException;
+
 }
